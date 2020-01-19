@@ -33,7 +33,7 @@ repositories {
     mavenCentral()
 }
 
-mainClassName = "com.thoughtworks.all-roll.Application"
+mainClassName = "com.thoughtworks.allroll.Application"
 
 //compile,runtime,testCompile,testRuntime
 dependencies {
@@ -103,4 +103,4 @@ bootJar {
 wrapper {
     gradleVersion = '5.2.1'
 }
-group = "com.thoughtworks.all-roll"
+group = "com.thoughtworks.allroll"
