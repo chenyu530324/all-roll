@@ -1,4 +1,4 @@
-package com.thoughtworks.all-roll.controller;
+package com.thoughtworks.allroll.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
